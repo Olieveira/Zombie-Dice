@@ -9,15 +9,19 @@ Dentro do jogo, os participantes precisam usar a imaginação, pois todos são z
 
 # Regras :exclamation:
  - O jogo possui 13 dados, os quais ficam em um tubo. <br>
+ - Os dados do tubo podem ser de 3 cores:
+ - - 🟢 Verdes: Possui mais faces de Cérebro.
+ - - 🟡 Amarelos: Possui as faces equilibradas.
+ - - 🔴 Vermelhos: Possui mais faces de Tiro.
  - É necessário pelo menos 2 jogadores. <br>
  - O primeiro jogador pode ser escolhido aleatóriamente ou manualmente. <br>
  - O jogador sempre deve lançar 3 dados de uma vez.
- - Cada dado possui 3 faces (Cérebros, Passos e Tiros). <br>
- - - A face cérebro significa que o jogador comeu 1 cérebro. :brain:
- - - A face Tiro significa que jogador levou um tiro. :gun:
- - - A face passos significa que o jogador deixou sua vítima escapar. :feet:
-- O primeiro jogador que conseguir comer 13 cérebros VENCE! <br>
- - CUIDADO, se o jogador levar 3 tiros, ele perde TODOS os cérebros obtidos no turno atual, mas caso passe a vez, os tiros são zerados e os cérebros contabilizados! <br>
+ - Cada dado possui 3 faces: <br>
+ - - :brain: Cérebro: significa que o jogador comeu 1 cérebro.
+ - - :gun: Tiro: significa que jogador levou um tiro.
+ - - :feet: Passos: significa que o jogador deixou sua vítima escapar.
+- O primeiro jogador que conseguir comer 13 cérebros **VENCE**! <br>
+ - **CUIDADO**, se o jogador levar 3 tiros, ele perde TODOS os cérebros obtidos no turno atual, mas caso passe a vez, os tiros são zerados e os cérebros contabilizados! <br>
  - Quando um dado cair para a face PASSOS, o mesmo será reutilizado no próximo turno para completar 3 dados, caso o jogador opte não continuar, o dado volta para o tubo!
 
 
